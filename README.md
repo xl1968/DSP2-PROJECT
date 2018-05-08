@@ -22,7 +22,7 @@ This project is aim to use different optimization method to do image denoising b
 
 
 # References
-1.Fast Gradient-Based Algorithms for Constrained Total Variation Image Denoising and Deblurring Problems.  Amir Beck and Marc Teboulle
-2.A Tutorial on Primal-Dual Algorithm.                                                                     Shenlong Wang
-3.ROF and TV-L1 denoising with Primal-Dual algorithm                                                       Alexander Mordvintsev
-4.An introduction to Total Variation for Image Analysis                                                    Antonin Chambolle, Vicent                                                                                                                  Caselles, Matteo Novaga, Daniel                                                                                                            Cremers, Thomas Pock
+* 1.Fast Gradient-Based Algorithms for Constrained Total Variation Image Denoising and Deblurring Problems.  Amir Beck and Marc Teboulle
+* 2.A Tutorial on Primal-Dual Algorithm.                                                                     Shenlong Wang
+* 3.ROF and TV-L1 denoising with Primal-Dual algorithm                                                       Alexander Mordvintsev
+* 4.An introduction to Total Variation for Image Analysis                                                    Antonin Chambolle, Vicent                                                                                                                  Caselles, Matteo Novaga,                                                                                                                  Cremers, Thomas Pock, Daniel 
